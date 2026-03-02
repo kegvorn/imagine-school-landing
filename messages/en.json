@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "title": "Imagine School — Decorative Coatings Academy",
+    "description": "Basic course \"Master Decorator\". Learn decorative plastering from the best masters of Imagine Decor."
+  },
+  "header": {
+    "benefits": "Benefits",
+    "course": "Course",
+    "program": "Program",
+    "pricing": "Pricing",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "badge": "Imagine School",
+    "title": "The First Online School of Decorative Coatings",
+    "subtitle": "Want to Become a Decorator but Don't Know Where to Start? We're Here to Help!",
+    "ctaLearn": "Learn More",
+    "ctaEnroll": "Become a Decorator"
+  },
+  "videoIntro": {
+    "title": "Training program led by the best master decorators of \"Imagine Decor\""
+  },
+  "benefits": {
+    "title": "Benefits of Being a Decorator",
+    "item1": {
+      "title": "Creative Freedom",
+      "description": "A master decorator is a creative and clean profession that allows you to express yourself fully."
+    },
+    "item2": {
+      "title": "Frequent Location Changes",
+      "description": "You don't stay at one site for months — decorative finishing is done very quickly."
+    },
+    "item3": {
+      "title": "Never Gets Boring",
+      "description": "A great variety of textures, styles, and techniques keeps you excited about every new project."
+    },
+    "item4": {
+      "title": "Easy to Learn",
+      "description": "Master a few basic decor types, and you'll be able to perform virtually any application technique."
+    },
+    "item5": {
+      "title": "Profitable Career",
+      "description": "On average, 1m² of work costs $10–12. An experienced master can easily complete 20–50m² per day."
+    },
+    "item6": {
+      "title": "Work-Life Balance",
+      "description": "A master decorator works per project and gets paid per 1m² of finished wall. You decide when to work or rest."
+    }
+  },
+  "courseOverview": {
+    "title": "Basic Course \"Master Decorator\"",
+    "subtitle": "Want to Become a Decorator but Don't Know Where to Start? We're Here to Help!",
+    "format": {
+      "label": "Format",
+      "value": "Online course with video lessons in Personal Dashboard"
+    },
+    "volume": {
+      "label": "Volume",
+      "value": "8 sections · 17 lessons · 10+ hours"
+    },
+    "speakers": {
+      "label": "Speakers",
+      "value": "Master Decorators of \"Imagine Decor\""
+    },
+    "start": {
+      "label": "Start",
+      "value": "Right Now!"
+    },
+    "ctaLearn": "Learn More",
+    "ctaEnroll": "Become a Decorator"
+  },
+  "courseProgram": {
+    "title": "Course Program",
+    "description": "Over 10 hours of video content with theory and practice — everything you need to become a master decorator.",
+    "section1": {
+      "title": "I. Theory",
+      "item1": "Welcome and guidance with course completion recommendations",
+      "item2": "Decorator tools overview: how to choose and the minimum set to get started",
+      "item3": "What is decorative plaster, textured vs thin-layer differences, composition, characteristics, cheat sheets and life hacks",
+      "item4": "Preparation work: proper wall preparation, masking tape application, priming"
+    },
+    "section2": {
+      "title": "II. Practice",
+      "subtitle": "10 core application techniques in detailed practical sessions",
+      "item1": "Three lessons on textured, coarse-grained plasters",
+      "item2": "Four lessons on the most popular thin-layer decorative plasters: various techniques, working on large walls, solo and pair work",
+      "item3": "Two lessons on Venetian plaster: classic technique and chipped marble with polishing"
+    },
+    "section3": {
+      "title": "III. Start Earning",
+      "item1": "How and where to find work as a beginner decorator — from our 10 years of experience",
+      "item2": "Growing on social media: Instagram, YouTube, Facebook",
+      "item3": "How to collaborate and find partners for stable work"
+    },
+    "section4": {
+      "title": "Bonus",
+      "item1": "Feedback and technical support via WhatsApp, Viber",
+      "item2": "30% discount on all Imagine Decor products as a master decorator"
+    }
+  },
+  "pricing": {
+    "preTitle": "Start Right Now!",
+    "title": "Course Price",
+    "programName": "\"Master Decorator\" program",
+    "videoTitle": "Training Preview",
+    "price": "4900",
+    "currency": "UAH",
+    "cta": "Become a Decorator"
+  },
+  "footer": {
+    "tagline": "Discover New Opportunities with Imagine School",
+    "subtitle": "You can definitely do this!",
+    "followUs": "Follow Us",
+    "shopLabel": "Materials Shop",
+    "shopName": "Imagine Decor — Online Store",
+    "emailLabel": "Our E-mail",
+    "email": "imagineschoool@gmail.com",
+    "phoneLabel": "Need Help",
+    "phone": "+38 (096) 681-44-51",
+    "copyright": "© {year} Imagine School. All rights reserved."
+  }
+}
