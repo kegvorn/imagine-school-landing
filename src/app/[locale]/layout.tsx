@@ -26,6 +26,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: t("title"),
     description: t("description"),
+    icons: {
+      icon: "/favicon.png",
+      apple: "/favicon.png",
+    },
     alternates: {
       canonical: `${baseUrl}/${locale}`,
       languages: Object.fromEntries(
