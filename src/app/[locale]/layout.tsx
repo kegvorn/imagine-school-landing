@@ -28,6 +28,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: t("title"),
     description: t("description"),
     keywords: t("keywords"),
+    verification: {
+      google: "zvZLXJBpMFvUpmNAmaXE97vxnNOEMiNIOYJTX4Rou40",
+    },
     icons: {
       icon: "/favicon.png",
       apple: "/favicon.png",
