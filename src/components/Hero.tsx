@@ -4,7 +4,7 @@ export default function Hero() {
   const t = useTranslations("hero");
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-11 md:pt-20">
       <div className="absolute inset-0 bg-gradient-to-b from-dark via-dark-lighter to-dark" />
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_rgba(200,168,78,0.08)_0%,_transparent_70%)]" />
 
@@ -32,7 +32,7 @@ export default function Hero() {
           </a>
         </div>
 
-        <div className="mt-20 animate-bounce">
+        <div className="mt-11 md:mt-24 animate-bounce">
           <svg
             className="w-6 h-6 mx-auto text-text-muted"
             fill="none"
